@@ -1,0 +1,130 @@
+body{
+    background-color: #bffafa;
+    margin: 0px;
+    padding-top: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;font-weight: 900;
+    color: #18f5f5;
+
+}
+p{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+    color:rgb(0, 0, 0);
+}
+h2,h3{
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: rgb(12, 195, 241);
+
+}
+div{
+    text-align: center;
+}
+.top-cointainer {
+    height: 100vh;
+    padding-bottom: 25px;
+}
+.mountain-img{
+    height: 600px;
+    font-weight: 600px;
+}
+.top-cointainer p{
+
+    color: #190dc0;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+span{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: relative;
+    left: 190px;
+}
+.bottom-cloud{
+    position: absolute;
+    top: 432px;
+    left: 459px;
+    
+}
+.computer{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 12px;
+}
+.chilli{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+
+
+/* skill******************************* */
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin:5rem auto 2rem auto;
+}
+.chi{
+    margin-top: 102px;
+}
+.line{
+    margin-top: 100px;
+}
+
+
+.middle-container{
+    margin-top: 100px;
+
+}
+.intro{
+    margin:auto;
+    width: 30%;
+}
+.para{
+    margin-bottom: 50px;
+}
+.btn{
+    height: 20px;
+    width: 850px;
+    border: 3px solid grey;
+    padding: 18px;
+    border-radius: 12%;
+    
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    
+}
+.btn:hover{
+    background-color: grey;
+    border: 3px solid black;
+    
+}
+.contact-me{
+    margin-bottom: 100px;
+}
+.bottom-container{
+    background-color: blueviolet;
+    height: 150px;
+    padding-top: 85px;
+}
+.footer-link{
+    text-decoration: none;
+    color: white;
+    margin-top: 25px;
+    padding: 60px;
+    
+}
+/* h1{
+    margin-top: 0;
+    margin-left: 0;
+} */
